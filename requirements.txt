@@ -1,6 +1,5 @@
 ultralytics
 streamlit
-libgl1
 opencv-python
 Pillow 
-
+scikit-learn
