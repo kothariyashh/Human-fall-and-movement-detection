@@ -1,8 +1,7 @@
-ultralytics==8.0.6
-ultralyticsplus==0.0.9
+ultralytics
 streamlit
-torch==0.17.1
-torch_vision==2.2.1
+torch
+torchvision
 opencv-python
 Pillow 
 matplotlib
