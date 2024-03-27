@@ -3,4 +3,3 @@ opencv-python
 Pillow
 streamlit
 ultralytics
---upgrade cv2-python ultralytics
