@@ -1,9 +1,6 @@
 ultralytics
 streamlit
-torch
-torchvision
+libgl1
 opencv-python
 Pillow 
-matplotlib
-scikit-image
-TensorFlow
+
