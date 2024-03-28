@@ -17,16 +17,24 @@ List the dependencies required to run your project. For example:
 Explain how to use your application. Provide step-by-step instructions if necessary. Mention the options available (Image or Video) and how users can upload files for fall detection.
 
 # Run the Streamlit app:
+
 streamlit run app.py
+
 Choose between detecting fall in an image or a video, and follow the on-screen instructions to upload the file and view the results.
 
 # File Structure:
 Briefly describe the structure of your project's files and directories. For example
+
 ├── app.py
+
 ├── utils
+
 │   └── yolo_processor.py
+
 ├── assets
+
 │   └── best.pt
+
 └── README.md
 
 # Credits:
