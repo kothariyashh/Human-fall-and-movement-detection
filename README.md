@@ -14,9 +14,8 @@ List the dependencies required to run your project. For example:
 
 Install the required dependencies by running the following command in the terminal:
 
-    ```
     pip install -r requirements.txt
-    ```
+
 
 ## Usage:
 Explain how to use your application. Provide step-by-step instructions if necessary. Mention the options available (Image or Video) and how users can upload files for fall detection.
