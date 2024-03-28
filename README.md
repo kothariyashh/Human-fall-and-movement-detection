@@ -14,7 +14,7 @@ List the dependencies required to run your project. For example:
 
 Install the required dependencies by running the following command in the terminal:
 
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
