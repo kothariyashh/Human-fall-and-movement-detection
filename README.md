@@ -38,6 +38,12 @@ Explain how to use your application. Provide step-by-step instructions if necess
 
 Choose between detecting a fall in an image or a video, and follow the on-screen instructions to upload the file and view the results.
 
+## Deployment: 
+
+You can access the live demo of this application here.
+    
+    https://human-fall-and-movement-detection.streamlit.app/
+
 ## File Structure:
 Briefly describe the structure of your project's files and directories. 
 For example
