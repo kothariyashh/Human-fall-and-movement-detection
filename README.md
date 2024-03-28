@@ -61,7 +61,9 @@ For example
 └── README.md
 
 ## Credits:
-Give credit to any external libraries, resources, or datasets you've used in your project.
+
+YOLO: https://github.com/ultralytics/yolov8
+Streamlit: https://streamlit.io/
 
 # SCREENSHOTS:
 
