@@ -6,9 +6,13 @@ The main goal of this research is to create a system that can recognize falls in
 ## Functionality:
 
 Image and Video Fall Detection: Users can upload either an image or a video file.
+
 Automatic Detection: The uploaded image or video undergoes automatic fall detection using the YOLO object detection model.
+
 User Interface: Streamlit provides an intuitive and interactive interface where users can seamlessly upload files and view the results.
+
 Result Presentation: Detected falls are highlighted in the output, providing visual cues to the user.
+
 Download Option: Users have the option to download the processed image or video for further analysis or storage.
 
 ## Installation:
