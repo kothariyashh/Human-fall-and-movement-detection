@@ -21,9 +21,9 @@ Install the required dependencies by running the following command in the termin
 Explain how to use your application. Provide step-by-step instructions if necessary. Mention the options available (Image or Video) and how users can upload files for fall detection.
 
 ## Run the Streamlit app:
-    ```bash
+
     streamlit run app.py
-    ```
+
 Choose between detecting a fall in an image or a video, and follow the on-screen instructions to upload the file and view the results.
 
 ## File Structure:
@@ -44,6 +44,14 @@ For example
 
 ## Credits:
 Give credit to any external libraries, resources, or datasets you've used in your project.
+
+# SCREENSHOTS:
+
+![image](https://github.com/kothariyashh/Human-fall-and-movement-detection/assets/95516314/5701fd7e-27c1-48fb-9935-d4464c5cd5d1)
+
+![image](https://github.com/kothariyashh/Human-fall-and-movement-detection/assets/95516314/1838f618-b3bb-4c2c-9883-bf43c456b745)
+
+![image](https://github.com/kothariyashh/Human-fall-and-movement-detection/assets/95516314/b421317a-2c3e-439e-8ccd-09f9d63047d1)
 
 
 
