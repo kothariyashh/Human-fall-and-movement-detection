@@ -63,6 +63,7 @@ For example
 ## Credits:
 
 YOLO: https://github.com/ultralytics/yolov8
+
 Streamlit: https://streamlit.io/
 
 # SCREENSHOTS:
