@@ -1,5 +1,6 @@
 ## Project Structure
 
+```bash
 |-- README.md
 |-- app.py
 |-- train_model.py
@@ -9,9 +10,7 @@
 |-- dataset/
 |   |-- insurance2.csv
 |-- requirements.txt
-
-
-
+```
 # Insurance Claim Prediction App
 
 This project implements a Streamlit web application for predicting whether an individual is likely to make an insurance 
