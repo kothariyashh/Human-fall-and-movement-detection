@@ -1,22 +1,15 @@
 ## Project Structure
 
 |-- README.md
-
 |-- app.py
-
-|-- train.py
-
-|-- predict.py
-
+|-- train_model.py
+|-- predict_model.py
 |-- model/
-
 |   |-- insurance_claim_prediction_model.joblib
-
 |-- dataset/
-
 |   |-- insurance2.csv
-
 |-- requirements.txt
+
 
 
 # Insurance Claim Prediction App
