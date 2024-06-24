@@ -56,12 +56,10 @@ Suppose a 40-year-old male with a BMI of 25.3, 2 children, non-smoker from the s
 
 ### Dependencies
 
+```bash
 Python 3.x
-
 pandas
-
 joblib
-
 scikit-learn
-
 streamlit
+```
